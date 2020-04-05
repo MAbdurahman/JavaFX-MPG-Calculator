@@ -20,7 +20,7 @@ public class Main extends Application {
             System.out.println(e.getMessage());
         }
         primaryStage.setTitle(" JavaFX- MPG-Calculator");
-        primaryStage.setScene(new Scene(root, 600, 350));
+        primaryStage.setScene(new Scene(root, 600, 425));
         primaryStage.show();
     }
 
